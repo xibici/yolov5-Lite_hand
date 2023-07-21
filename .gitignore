@@ -1,0 +1,7 @@
+__pycache__
+datasets/
+models/__pycache__
+runs
+utils/__pycache__
+../../../../../手势识别部分/handpose部分/handpose_and_yolov5lite/components/hand_detect/utils/wandb_logging/__pycache__
+wandb
